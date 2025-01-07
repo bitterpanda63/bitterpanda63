@@ -4,7 +4,7 @@ Hiya!
 - 🔭 I’m currently working on 💜 [Zen by Aikido](https://github.com/AikidoSec/firewall-python) 💜
 - Also take a look at [Zen Internals](https://github.com/AikidoSec/zen-internals), our Rust library with vulnerability detection algorithms!
 - 🌱 I’m currently developing my skills in: Bytecode Instrumentation, UDS Communication, Kernel Development, and more!
-- 
+
 xoxo Happy Coding!
 
 ### Stats
