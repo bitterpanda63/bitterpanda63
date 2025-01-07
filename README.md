@@ -10,4 +10,4 @@ Hiya!
 xoxo Happy Coding!
 
 ### Stats
-![bitterpanda63's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitterpanda63&theme=material-palenight&show_icons=true&border_radius=10&hide_title=true&show=prs_merged,reviews&card_width=900)
+![bitterpanda63's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitterpanda63&theme=material-palenight&show_icons=true&border_radius=10&hide_title=true&show=prs_merged,reviews&card_width=1100)
