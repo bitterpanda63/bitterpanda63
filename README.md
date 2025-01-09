@@ -6,6 +6,7 @@ Hiya!
 - 🌱 I’m currently developing my skills in: Bytecode Instrumentation, UDS Communication, Kernel Development, and more!
 - 💬 AMA Using [Github Issues](https://github.com/bitterpanda63/bitterpanda63/issues)
 - 💻 I've been developing both Aikido's **Python** and **Java** WAF (See [Zen by Aikido](https://github.com/AikidoSec/firewall-python)), And started our **Rust** FFI Library for better SQL Injection detection. I started my programming journey with **JavaScript/TypeScript** and used them a lot ever since.
+- 📝 I also blog a bit: [my blog](https://bitterpanda63.github.io)
 
 xoxo Happy Coding!
 
