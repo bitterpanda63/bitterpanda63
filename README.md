@@ -9,6 +9,3 @@ Hiya!
 - 📝 I also blog a bit: [my blog](https://bitterpanda63.github.io)
 
 xoxo Happy Coding!
-
-### Stats
-![bitterpanda63's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitterpanda63&icon_color=ff6f91&title_color=ff6f91&text_color=111111&bg_color=f8e1e7&show_icons=true&border_radius=15&hide_title=true&show=prs_merged,reviews&card_width=1025)
